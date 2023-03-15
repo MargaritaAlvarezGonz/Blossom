@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blossom_API.props" />
+</Project>
